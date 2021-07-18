@@ -109,14 +109,16 @@ public class FileMainClass
     
     public static void exitAppplication()
     {
-    	
+    	System.out.println("\n\n************************************");
     	System.out.println("Thank you!");
+    	System.out.println("************************************\n\n");
     	System.exit(0);
     }
     
     public static void printMenu1()
     {
     	System.out.println("************************************");
+    	System.out.println("LOCKEDME.COM");
     	System.out.println("FILE HANDLING SYSTEM");
     	System.out.println("\nDeveloper:Rachel Phillip\n");
     	System.out.println("************************************");
